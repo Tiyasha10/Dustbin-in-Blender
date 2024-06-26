@@ -7,8 +7,8 @@ In such instances, the effectiveness of waste management efforts hinges on the a
 
 ## Implementation
 ### Methodology or Proposal<br>
-Blender and inkspace are used for designing the smart dustbin.<br>
-**__Setting up Blender:__** First, we open Blender and switch to the "Modeling"
+Blender and inkspace are used for designing the smart dustbin.<br><br>
+**__ Setting up Blender: __** First, we open Blender and switch to the "Modeling"
 workspace.<br><br>
 **__Add a Cube:__** We start by adding a cube mesh object to our scene or by pressing Shift + A and selecting Mesh > Cube.<br>
 **Adjust Cube Properties:** With the cube selected, we can adjust its properties in the bottom left corner of the screen. we can change the dimensions to match the size of a rectangular garbage bin.<br><br>
