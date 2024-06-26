@@ -26,6 +26,8 @@ workspace.<br><br>
 **_ _Component:_ _** We have taken the pictures of aurdino, ir-board, and biodegradable signs and using inkspace we traced the bitmap path of the image and selected multicolour, under which chose colours, also checkbox remove background, smooth, and set the amount of scanning, then click apply. Then save a copy. Next, we will import them. They are imported as 3d and extruded to give thickness. Then changing colour and adding a plane with extruding we made a non-biodegradable sign.<br><br>
 **_ _Lighting and Rendering:_ _** Set up your scene with appropriate lighting and camera angles. we can adjust the lighting by adding lights to the scene. Once satisfied, we can render our scene by going to the Render tab and clicking Render Image or Render Animation.<br><br>
 #SOME OF THE #D IMAGES OD THE BLENDER AFTER RENDERING<br><br>
-![dustbin24](Dustbin/dustbin24.png)<br>SIDE 1<br>
-![dustbin23](Dustbin/dustbin23.png)<br>SIDE 2<br>
-![dustbin21](Dustbin/dustbin21.png)<br>INSIDE <br>
+![dustbin24](Dustbin/dustbin24.png)<br>SIDE 1<br><br>
+![dustbin23](Dustbin/dustbin23.png)<br>SIDE 2<br><br>
+![dustbin21](Dustbin/dustbin21.png)<br>INSIDE <br><br>
+![dustbin19](Dustbin/dustbin19.png)<br>SIDE 3 AND BOTTOM <br><br><br>
+## REST ARE IN THE FOLDER DUSTBIN 
