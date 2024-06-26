@@ -25,4 +25,6 @@ workspace.<br><br>
 **_ _Color:_ _** We selected the dustbin object and added the base colour yellow. Next, we selected one of the lids and added the base colour blue for non-biodegradable and other one green denoting biodegradable. We gave the handle the colours accordingly. We have also added colurs to the wheels and selected the wheel object individually.<br><br>
 **_ _Component:_ _** We have taken the pictures of aurdino, ir-board, and biodegradable signs and using inkspace we traced the bitmap path of the image and selected multicolour, under which chose colours, also checkbox remove background, smooth, and set the amount of scanning, then click apply. Then save a copy. Next, we will import them. They are imported as 3d and extruded to give thickness. Then changing colour and adding a plane with extruding we made a non-biodegradable sign.<br><br>
 **_ _Lighting and Rendering:_ _** Set up your scene with appropriate lighting and camera angles. we can adjust the lighting by adding lights to the scene. Once satisfied, we can render our scene by going to the Render tab and clicking Render Image or Render Animation.<br><br>
+#SOME OF THE #D IMAGES OD THE BLENDER AFTER RENDERING
 ![dustbin24](Dustbin/dustbin24.png)
+![dustbin23](Dustbin/dustbin23.png)
